@@ -64,3 +64,6 @@ while True:
 What I've shown you here is only one of many approaches to create a chatbot in Python. You may also make a Python chatbot with NLTK, chatterbot, and pywhatkit, among other Python packages. And, while what I learnt here is a very simple Python chatbot with few cognitive skills, if you completely grasp the concept of a Python chatbot, you can experiment with it using various tools and instructions to make it even smarter.
 
 ## Contribution
+Pull requests are welcome. For major changes, please open and issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
