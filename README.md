@@ -26,7 +26,7 @@ This mini-project can be utilised for a variety of real-world scenarios, includi
 Installing the pyautgui package on your machine is the first step in developing a chatbot in Python. For the installation, it's preferable if you create and use a new Python virtual environment. To do so, type and run the following command in your Python terminal:
 
 ```python
-pip install pyautpgui
+pip install pyautogui
 ```
 ## Pyautogui 
 PyAutoGUI is a python module which lets your Python scripts control the mouse and keyboard to automate interactions with other applications. The API is designed to be simple. PyAutoGUI works on Windows, macOS, and Linux, and runs on Python 2 and 3.
